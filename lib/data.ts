@@ -4,7 +4,7 @@ import { FaReact } from "react-icons/fa";
 import { LuGraduationCap } from "react-icons/lu";
 import corpcommentImg from "@/public/EasyBank.jpg";
 import rmtdevImg from "@/public/Countries-API.jpg";
-import wordanalyticsImg from "@/public/Calculator.jpg";
+import worldbushidoImg from "@/public/worldbushidofederation.png";
 
 export const links = [
   {
@@ -76,11 +76,11 @@ export const projectsData = [
     imageUrl: rmtdevImg,
   },
   {
-    title: "Calculator App",
+    title: "World Bushido Federation",
     description:
-      "Functional calculator with a very cool theme switcher for three themes",
-    tags: ["React", "Next.js", "Styled Components", "Typescript"],
-    imageUrl: wordanalyticsImg,
+      "A martial artist academy which trust on my to create from scratch their website that include suscriptions and other products which also is powered by stripe",
+    tags: ["Next.js", "SASS", "Javascript", "NodeJS"],
+    imageUrl: worldbushidoImg,
   },
 ] as const;
 
