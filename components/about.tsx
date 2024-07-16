@@ -21,7 +21,7 @@ export default function About() {
       <p className="mb-3">
         After graduating from high school, I decided to pursue my
         passion for programming. I enrolled in a coding online classes and learned{" "}
-        <span className="font-medium">front-end web development</span>.{" "}
+        <span className="font-medium">full stack web development</span>.{" "}
         <span className="italic">My favorite part of programming</span> is the
         problem-solving aspect. I <span className="underline">love</span> the
         feeling of finally figuring out a solution to a problem. My core stack

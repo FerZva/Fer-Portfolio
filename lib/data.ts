@@ -35,15 +35,15 @@ export const links = [
 
 export const experiencesData = [
   {
-    title: "Graduated Frontend Web Developer Carrier",
+    title: "Graduated Full Stack Web Developer Carrier",
     location: "Udemy",
     description:
-      "I graduated after 1 year of studying. I immediately started to look for a job as a front-end developer.",
+      "I graduated after 1 year of studying. I immediately started to look for a job as a Full Stack Web Developer.",
     icon: React.createElement(LuGraduationCap),
     date: "2019",
   },
   {
-    title: "Front-End Developer",
+    title: "Softwre Developer",
     location: "Honduras",
     description:
       "I worked as a software developer for 2 years on Emanú International a Security Company.",
@@ -54,7 +54,7 @@ export const experiencesData = [
     title: "Freelance",
     location: "Remote",
     description:
-      "I'm now a Frontend developer working as a freelancer. My stack includes React, Next.js, Angular, TypeScript, Tailwind. I'm open to full-time opportunities.",
+      "I'm now a Full Stack developer working as a freelancer. My stack includes React, Next.js, Angular, TypeScript, Tailwind, NodeJS, MongoDB. I'm open to full-time opportunities.",
     icon: React.createElement(FaReact),
     date: "2021 - present",
   },
