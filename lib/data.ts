@@ -46,7 +46,7 @@ export const experiencesData = [
     title: "Front-End Developer",
     location: "Honduras",
     description:
-      "I worked as a front-end developer for 2 years on Emanú International a Security Company.",
+      "I worked as a software developer for 2 years on Emanú International a Security Company.",
     icon: React.createElement(CgWorkAlt),
     date: "2019 - 2021",
   },
@@ -97,7 +97,8 @@ export const skillsData = [
   "SASS",
   "Tailwind",
   // "Prisma",
-  // "MongoDB",
+  "MongoDB",
+  "MS SQL SERVER",
   // "Redux",
   // "GraphQL",
   // "Apollo",
