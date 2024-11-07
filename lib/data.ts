@@ -67,6 +67,7 @@ export const projectsData = [
       "Landing page for a bank that challenge me throghout the developmenent process",
     tags: ["React", "Typescript", "SASS", "Vite"],
     imageUrl: corpcommentImg,
+    liveView: "https://worldbushidofederation.com",
   },
   {
     title: "REST Countries API with color theme switcher",
@@ -74,6 +75,7 @@ export const projectsData = [
       "This is one of my favourites proyect becuase the challenge to display data from an API was very interesting",
     tags: ["React", "TypeScript", "Next.js", "SASS", "Styled Components"],
     imageUrl: rmtdevImg,
+    liveView: "https://worldbushidofederation.com",
   },
   {
     title: "World Bushido Federation",
@@ -81,6 +83,7 @@ export const projectsData = [
       "A martial artist academy which trust on my to create from scratch their website that include suscriptions and other products which also is powered by stripe",
     tags: ["Next.js", "SASS", "Javascript", "NodeJS"],
     imageUrl: worldbushidoImg,
+    liveView: "https://worldbushidofederation.com",
   },
 ] as const;
 
