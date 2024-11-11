@@ -67,7 +67,7 @@ export const projectsData = [
       "Landing page for a bank that challenge me throghout the developmenent process",
     tags: ["React", "Typescript", "SASS", "Vite"],
     imageUrl: corpcommentImg,
-    liveView: "https://worldbushidofederation.com",
+    liveView: "https://clinquant-lamington-8be0c2.netlify.app",
   },
   {
     title: "REST Countries API with color theme switcher",
@@ -75,7 +75,7 @@ export const projectsData = [
       "This is one of my favourites proyect becuase the challenge to display data from an API was very interesting",
     tags: ["React", "TypeScript", "Next.js", "SASS", "Styled Components"],
     imageUrl: rmtdevImg,
-    liveView: "https://worldbushidofederation.com",
+    liveView: "https://amazing-moxie-8d5504.netlify.app/",
   },
   {
     title: "World Bushido Federation",
