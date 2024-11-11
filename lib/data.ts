@@ -81,7 +81,7 @@ export const projectsData = [
     title: "World Bushido Federation",
     description:
       "A martial artist academy which trust on my to create from scratch their website that include suscriptions and other products which also is powered by stripe",
-    tags: ["Next.js", "SASS", "Javascript", "NodeJS"],
+    tags: ["Next.js", "Tailwid", "Typescript", "NodeJS", "Stripe"],
     imageUrl: worldbushidoImg,
     liveView: "https://worldbushidofederation.com",
   },
