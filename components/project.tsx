@@ -5,7 +5,6 @@ import { projectsData } from "@/lib/data";
 import Image from "next/image";
 import { motion, useScroll, useTransform } from "framer-motion";
 import Link from "next/link";
-
 type ProjectProps = (typeof projectsData)[number];
 
 export default function Project({
@@ -39,7 +38,7 @@ export default function Project({
             {description}
           </p>
           <ul className="flex flex-wrap mt-4 gap-2 sm:mt-auto">
-            <Link src={liveView}>
+            <Link href={liveView}>
               <button>Live view</button>
             </Link>
             {tags.map((tag, index) => (
