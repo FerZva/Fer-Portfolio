@@ -4,6 +4,7 @@ import { FaReact } from "react-icons/fa";
 import { LuGraduationCap } from "react-icons/lu";
 import uruzai from "@/public/EasyBank.jpg";
 import rmtdevImg from "@/public/URUZAI.png";
+import uruzpos from "@/public/uruz-pos-saas.png";
 import worldbushidoImg from "@/public/worldbushidofederation.png";
 
 export const links = [
@@ -62,28 +63,45 @@ export const experiencesData = [
 
 export const projectsData = [
   {
-    title: "EasyBank",
-    description:
-      "Landing page for a bank that challenge me throghout the developmenent process",
-    tags: ["React", "Typescript", "SASS", "Vite"],
-    imageUrl: uruzai,
-    liveView: "https://clinquant-lamington-8be0c2.netlify.app",
-  },
-  {
-    title: "URUZ AI",
-    description:
-      "This is one of my favorite projects because the challenge of integrating artificial intelligence was amazing, and the results are unbelievable.",
-    tags: ["NextJS", "TypeScript", "Tailwind", "NodeJS", "Prisma", "Open AI", "Stripe", "Clerk"],
-    imageUrl: rmtdevImg,
-    liveView: "https://amazing-moxie-8d5504.netlify.app/",
+    title: "URUZ POS SAAS",
+    description: "Software As A Service point of sale systes",
+    tags: [
+      "NextJS",
+      "Typescript",
+      "Prisma",
+      "MongoDB",
+      "AWS",
+      "Stripe",
+      "TailwindCSS",
+      "ShadCN",
+    ],
+    imageUrl: uruzpos,
+    liveView: "https://uruz-pos-saas-next.vercel.app",
   },
   {
     title: "World Bushido Federation",
     description:
       "A martial artist academy which trust on my to create from scratch their website that include suscriptions and other products which also is powered by stripe",
-    tags: ["Next.js", "Tailwid", "Typescript", "NodeJS", "Stripe"],
+    tags: ["Next.js", "Tailwind", "Typescript", "NodeJS", "Stripe"],
     imageUrl: worldbushidoImg,
     liveView: "https://worldbushidofederation.com",
+  },
+  {
+    title: "URUZ AI",
+    description:
+      "This is one of my favorite projects because the challenge of integrating artificial intelligence was amazing, and the results are unbelievable.",
+    tags: [
+      "NextJS",
+      "TypeScript",
+      "Tailwind",
+      "NodeJS",
+      "Prisma",
+      "Open AI",
+      "Stripe",
+      "Clerk",
+    ],
+    imageUrl: rmtdevImg,
+    liveView: "https://amazing-moxie-8d5504.netlify.app/",
   },
 ] as const;
 
