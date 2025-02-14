@@ -101,7 +101,7 @@ export const projectsData = [
       "Clerk",
     ],
     imageUrl: rmtdevImg,
-    liveView: "https://amazing-moxie-8d5504.netlify.app/",
+    liveView: "",
   },
 ] as const;
 
