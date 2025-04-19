@@ -76,7 +76,7 @@ export const projectsData = [
       "ShadCN",
     ],
     imageUrl: uruzpos,
-    liveView: "https://uruz-pos-saas-next.vercel.app",
+    liveView: "https://uruzpos.vercel.app",
   },
   {
     title: "World Bushido Federation",
