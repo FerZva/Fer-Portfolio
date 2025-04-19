@@ -4,7 +4,6 @@ import { useRef } from "react";
 import { projectsData } from "@/lib/data";
 import Image from "next/image";
 import { motion, useScroll, useTransform } from "framer-motion";
-import Link from "next/link";
 type ProjectProps = (typeof projectsData)[number];
 
 export default function Project({
@@ -47,9 +46,6 @@ export default function Project({
               </li>
             ))}
           </ul>
-          <Link href={liveView} className="block">
-            <button>Live view</button>
-          </Link>
         </div>
 
         <a
