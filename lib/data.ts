@@ -64,7 +64,8 @@ export const experiencesData = [
 export const projectsData = [
   {
     title: "URUZ POS SAAS",
-    description: "Software As A Service point of sale systes",
+    description:
+      "Software As A Service point of sale with human resources integrated system",
     tags: [
       "NextJS",
       "Typescript",
