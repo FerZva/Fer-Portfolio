@@ -68,9 +68,7 @@ export const projectsData = [
     tags: [
       "NextJS",
       "Typescript",
-      "Prisma",
-      "MongoDB",
-      "AWS",
+      "ProsgreSQL",
       "Stripe",
       "TailwindCSS",
       "ShadCN",
