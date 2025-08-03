@@ -4,7 +4,7 @@ import { FaReact } from "react-icons/fa";
 import { LuGraduationCap } from "react-icons/lu";
 import uruzai from "@/public/EasyBank.jpg";
 import rmtdevImg from "@/public/URUZAI.png";
-import uruzpos from "@/public/uruz-pos-saas.png";
+import uruzpos from "@/public/preview.png";
 import worldbushidoImg from "@/public/worldbushidofederation.png";
 
 export const links = [
