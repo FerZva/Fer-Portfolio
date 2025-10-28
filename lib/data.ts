@@ -36,29 +36,48 @@ export const links = [
 
 export const experiencesData = [
   {
+    title: "Bentobox",
+    location: "Remote",
+    description:
+      "I primarily work at Bentobox with the design team through tickets to resolve in-production website bugs, enhance appearance, and improve their CRM, which manages their website's backend using tools such as Asana, Jira, and Slack.",
+    icon: React.createElement(FaReact),
+    date: "2024 - present",
+  },
+  {
+    title: "Freelance",
+    location: "Remote",
+    description:
+      "I worked as a Full Stack developer freelancer. My stack includes React, Next.js, Angular, TypeScript, Tailwind, NodeJS, MongoDB. Working in platform such as Workana and Upwork.",
+    icon: React.createElement(CgWorkAlt),
+    date: "2024 - 2024",
+  },
+  {
+    title: "Software Developer",
+    location: "Honduras",
+    description:
+      "During my time at Flores Group as a Full Stack Developer, I had the opportunity to contribute to a meaningful campaign supporting startups, restaurants, and other businesses. I crafted mobile apps with React Native, Expo, and Firebase.",
+    icon: React.createElement(CgWorkAlt),
+    date: "2022 - 2024",
+  },
+  {
+    title: "Software Developer",
+    location: "Honduras",
+    description:
+      "I worked as a software developer for 2 years on Emanú International a Security Company.",
+    icon: React.createElement(CgWorkAlt),
+    date: "2020 - 2021",
+  },
+  {
     title: "Graduated Full Stack Web Developer Carrier",
     location: "Udemy",
     description:
       "I graduated after 1 year of studying. I immediately started to look for a job as a Full Stack Web Developer.",
     icon: React.createElement(LuGraduationCap),
     date: "2019",
-  },
-  {
-    title: "Softwre Developer",
-    location: "Honduras",
-    description:
-      "I worked as a software developer for 2 years on Emanú International a Security Company.",
-    icon: React.createElement(CgWorkAlt),
-    date: "2019 - 2021",
-  },
-  {
-    title: "Freelance",
-    location: "Remote",
-    description:
-      "I'm now a Full Stack developer working as a freelancer. My stack includes React, Next.js, Angular, TypeScript, Tailwind, NodeJS, MongoDB. I'm open to full-time opportunities.",
-    icon: React.createElement(FaReact),
-    date: "2021 - present",
-  },
+  }
+  
+  
+  
 ] as const;
 
 export const projectsData = [
